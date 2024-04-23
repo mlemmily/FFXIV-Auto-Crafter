@@ -1,0 +1,16 @@
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\ReleaseME\FFXIV Auto Crafter.exe.config
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\ReleaseME\FFXIV Auto Crafter.exe.manifest
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\ReleaseME\FFXIV Auto Crafter.application
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\ReleaseME\FFXIV Auto Crafter.exe
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\ReleaseME\FFXIV Auto Crafter.pdb
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.csproj.AssemblyReference.cache
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\Auto_Key_Presser.MainFrm.resources
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\Auto_Key_Presser.AboutFrm.resources
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV_Auto_Crafter.Properties.Resources.resources
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.csproj.GenerateResource.cache
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.csproj.CoreCompileInputs.cache
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.TrustInfo.xml
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.exe.manifest
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.application
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.exe
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\ReleaseME\FFXIV Auto Crafter.pdb

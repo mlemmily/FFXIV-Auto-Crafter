@@ -1,0 +1,16 @@
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\bin\Debug\FFXIV Auto Crafter.exe.config
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\bin\Debug\FFXIV Auto Crafter.exe.manifest
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\bin\Debug\FFXIV Auto Crafter.application
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\bin\Debug\FFXIV Auto Crafter.exe
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\bin\Debug\FFXIV Auto Crafter.pdb
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.csproj.AssemblyReference.cache
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\Auto_Key_Presser.MainFrm.resources
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\Auto_Key_Presser.AboutFrm.resources
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV_Auto_Crafter.Properties.Resources.resources
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.csproj.GenerateResource.cache
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.csproj.CoreCompileInputs.cache
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.TrustInfo.xml
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.exe.manifest
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.application
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.exe
+C:\Users\mlemmily\Downloads\FFXIV Auto Crafter\FFXIVAutoCrafter\obj\Debug\FFXIV Auto Crafter.pdb

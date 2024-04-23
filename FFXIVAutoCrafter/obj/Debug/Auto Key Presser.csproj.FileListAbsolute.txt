@@ -1,0 +1,16 @@
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\Debug\Auto Key Presser.exe.config
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\Debug\Auto Key Presser.exe.manifest
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\Debug\Auto Key Presser.application
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\Debug\Auto Key Presser.exe
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\bin\Debug\Auto Key Presser.pdb
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.csproj.AssemblyReference.cache
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto_Key_Presser.MainFrm.resources
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto_Key_Presser.AboutFrm.resources
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto_Key_Presser.Properties.Resources.resources
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.csproj.GenerateResource.cache
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.csproj.CoreCompileInputs.cache
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.TrustInfo.xml
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.exe.manifest
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.application
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.exe
+C:\Users\mlemmily\Downloads\auto-key-presser-master\Auto Key Presser\obj\Debug\Auto Key Presser.pdb
